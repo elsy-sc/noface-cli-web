@@ -20,6 +20,8 @@ Stay private, stay connected.
 
 </div>
 
+> Note: This repository contains a small prototype and demonstration of the concept. The full product will be a mobile application with a polished graphical user interface (not a CLI). The mobile app is currently in active development and will be released soon.
+
 ## ✨ Features
 
 <table>
